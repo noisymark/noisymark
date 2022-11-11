@@ -10,8 +10,8 @@
   - 📸 @marko_pavlovic01
 
 - 🏬 My online stores:
-- https://www.etsy.com/shop/RandomRhinoHR
-- https://www.instagram.com/randomrhino.hr
+  - https://www.etsy.com/shop/RandomRhinoHR
+  - https://www.instagram.com/randomrhino.hr
 
 <!---
 noisymark/noisymark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

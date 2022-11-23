@@ -6,12 +6,8 @@
 
 - 📫 How to reach me:
   - 📩 markopavlovic316@gmail.com
-  - 📞 +385 997495034 (Call / WhatsApp / Viber)
+  - 📞 +385997495034 (Call / WhatsApp / Viber)
   - 📸 @marko_pavlovic01
-
-- 🏬 My online stores:
-  - https://www.etsy.com/shop/RandomRhinoHR
-  - https://www.instagram.com/randomrhino.hr
 
 <!---
 noisymark/noisymark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

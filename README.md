@@ -9,6 +9,8 @@
   - 📞 +385997495034 (Call / WhatsApp / Viber)
   - 📸 @marko_pavlovic01
 
+- 💸 If you wish to support my development by buying me a cup of coffee you can do so via Revolut on this link: https://revolut.me/markonq12
+
 <!---
 noisymark/noisymark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

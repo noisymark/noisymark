@@ -28,7 +28,7 @@ I am a Junior PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on AdventOfCode and ProjectEuler and read tech articles.
 
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-markopavlovic01-blue?style=flat&logo=Instagram&logoColor=white)](markopavlovic01)([https://www.instagram.com/marko_pavlovic01])
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-markopavlovic01-blue?style=flat&logo=Instagram&logoColor=white)](markopavlovic01)https://www.instagram.com/marko_pavlovic01
 
 ---
 

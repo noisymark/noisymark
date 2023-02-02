@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?noisymark&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hello there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -28,7 +28,7 @@ I am a Junior PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on AdventOfCode and ProjectEuler and read tech articles.
 
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-markopavlovic01-blue?style=flat&logo=Instagram&logoColor=white)](markopavlovic01)https://www.instagram.com/marko_pavlovic01
+- :mailbox:How to reach me: <a href="https://www.instagram.com/marko_pavlovic01">[![Instagram Badge](https://img.shields.io/badge/-markopavlovic01-blue?style=flat&logo=Instagram&logoColor=white)]</a>
 
 ---
 
@@ -46,7 +46,7 @@ I am a Junior PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noisymark&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?noisymark&layout=compact&theme=vision-friendly-dark)](https://github.com/noisymark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noisymark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

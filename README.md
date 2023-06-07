@@ -25,12 +25,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Croatia.
-- :telescope: I’m currently studying at Edunova, Osijek and contributing to frontend and backend for building web applications.
+I am a Junior PHP & Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Croatia.
+- :telescope: I’m currently working at OG-CS, Đakovo and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring everything that regards technology.
 
-- :zap: In my free time, I solve problems on AdventOfCode and ProjectEuler and read tech articles.
+- :zap: In my free time, I create small full-stack apps for small companies and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.instagram.com/marko_pavlovic01">[![Instagram Badge](https://img.shields.io/badge/-markopavlovic01-blue?style=flat&logo=Instagram&logoColor=white)]</a>
 

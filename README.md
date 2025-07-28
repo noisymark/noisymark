@@ -47,20 +47,20 @@ I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypress/cypress-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original-wordmark.svg" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original-wordmark.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="CypressIO" alt="CypressIO" width="40" height="40"/>
   
 </div>
 

@@ -43,6 +43,25 @@ I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypress/cypress-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  
 </div>
 
 ---
